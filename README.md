@@ -13,13 +13,13 @@ The answer to "disk full, where'd it all go?" in one command. Free space on ever
 
   Top folders  (size on disk, rolled up 3 deep — rows don't overlap)
   ----------------------------------------------------------------------
-    41.20 GB  C:\Users\Eric\AppData\Local
+    41.20 GB  C:\Users\JohnDoe\AppData\Local
     18.70 GB  C:\Windows\Installer
-    15.10 GB  C:\Users\Eric\Videos
+    15.10 GB  C:\Users\JohnDoe\Videos
 
   Top files
   ----------------------------------------------------------------------
-     8.90 GB  2023-04-11  C:\Users\Eric\Videos\raw-capture.mkv
+     8.90 GB  2023-04-11  C:\Users\JohnDoe\Videos\raw-capture.mkv
      6.40 GB  2026-06-01  C:\hiberfil.sys   ← system file — Windows manages this
    204.0 MB  2025-11-08  C:\...\EBWebView\Default\Cache\Cache_Data\data_3   ← browser cache — SquirrelCleaner territory
 
